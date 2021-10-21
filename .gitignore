@@ -1,0 +1,10 @@
+# node modules
+node_modules/
+
+# lib dist
+lib/
+
+# env file
+.env
+
+.nyc_output
