@@ -1,5 +1,5 @@
 {
-  "name": "exception-lib",
+  "name": "exlib",
   "version": "1.0.0",
   "description": "Exceptions package",
   "main": "lib/index.js",
